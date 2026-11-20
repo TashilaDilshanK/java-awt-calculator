@@ -17,7 +17,7 @@ A clean, responsive desktop calculator built using pure Java AWT (Abstract Windo
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/TashilaDilshanK/java-awt-calculator.git](https://github.com/TashilaDilshanK/java-awt-calculator.git)
+   git clone https://github.com/TashilaDilshanK/java-awt-calculator.git
 ## 📸 Screenshots
 Light ModeDark 
 
